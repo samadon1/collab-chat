@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782046110141",
+    "project_id": "collab-chat-6b6f4",
+    "storage_bucket": "collab-chat-6b6f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782046110141:android:b8610b1e00d5e66f3eb2d4",
+        "android_client_info": {
+          "package_name": "com.Samwell.collab_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782046110141-hi7jekehp2atr4tcbtdnin6e9tp79qla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIrITpckaUqpF0wC8yeNOYE47av7Q1D7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782046110141-hi7jekehp2atr4tcbtdnin6e9tp79qla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
